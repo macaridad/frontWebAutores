@@ -1,0 +1,79 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn{
+    max-width: 30%
+} 
+
+.card-grid-colum{
+    width: 80%;
+}
+
+.my-footer{
+    width: 100%;
+    background-color: rgb(77, 40, 40);
+    color: azure;
+    padding: 7px;
+    font-style: italic;
+    margin-top: 50px;
+    position: fixed;
+    /* display: none; */
+    bottom: 0;
+}
+
+body{
+    background-color: rgb(223, 223, 223);
+    margin-top: 120px;
+}
+
+.spinner{
+    margin: 0 auto;
+    
+}
+
+.card-border{
+    border: none;
+}
+
+.libreria {
+    color: rgb(60, 33, 33) !important;
+}
+
+.button {
+    background-color: rgb(214, 132, 132);
+    border: none;
+}
+.button:hover{
+    background-color: rgb(77, 40, 40);
+}
+
+.button:active{
+    background-color: rgb(77, 40, 40) !important;
+}
+
+.nav-bar{
+    background-color:#E5E5E5;
+    box-shadow: -1px 10px 19px -6px rgba(139,139,139,0.75);
+    height: 60px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.titulo-nav{
+    color: black;
+    font-size: 2rem;
+}
+
+.link-nav{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: rgb(77, 40, 40);;
+}
+
+.link-nav:hover{
+    color: rgb(214, 132, 132);
+    font-size:1.6rem;
+}
